@@ -13,3 +13,6 @@
 ・0未満の数を入力するとプログラムが終了します
 
 # スクリーンショット
+![起動時スクリーンショット](https://github.com/SumeshiDouji/Reversi_Console/blob/master/img/Sample01_Startup.png "起動時スクリーンショット")
+
+![入力時スクリーンショット](https://github.com/SumeshiDouji/Reversi_Console/blob/master/img/Sample02_NextTurn.png "入力時スクリーンショット")
